@@ -1,4 +1,4 @@
-# TimeSeriesForecasting
+# Time Series Analysis & Forecasting
 
 ### Learning Outcomes:
 
